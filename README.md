@@ -1,6 +1,6 @@
 # data-science-cheat-sheets
 
-[python for data science.pdf](https://github.com/juberrahman/data-science-cheat-sheets/files/4454333/python.for.data.science.pdf)
+[python for data science cheat sheet.pdf](https://github.com/juberrahman/data-science-cheat-sheets/files/4454333/python.for.data.science.pdf)
 
 [sk-learn cheat sheet.pdf](https://github.com/juberrahman/data-science-cheat-sheets/files/4454233/sk-learn.cheat.sheet.pdf)
 
